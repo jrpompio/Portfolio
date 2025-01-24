@@ -1,0 +1,124 @@
+\documentclass[a4paper,9pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{geometry}
+\usepackage{qrcode}
+\usepackage{multicol}
+\usepackage{parskip}
+\usepackage{enumitem} % For tighter lists
+\usepackage{hyperref}  % Paquete para hipervínculos
+
+\geometry{a4paper, margin=0.8in}
+\setlength{\parskip}{3pt plus 1pt minus 1pt}
+\setlength{\parindent}{0pt}
+
+% Reduce space in itemize environments
+\setlist[itemize]{itemsep=0.5pt, topsep=2pt, leftmargin=*}
+
+\begin{document}
+
+%-----------------------------------
+% HEADER: Name & Contact
+%-----------------------------------
+\begin{minipage}[t]{0.65\textwidth}
+    \Large \textbf{Junior Ruiz Sánchez} \\
+    \small
+    Electrical Engineering Student (Networks and Computers Emphasis) \\
+    San Pedro de Montes de Oca, Costa Rica \\
+    \textbf{Phone:} +506 8699 1811 \quad
+    \textbf{Email:} \href{mailto:jr.pompio@gmail.com}{jr.pompio@gmail.com}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.3\textwidth}
+    \raggedleft
+    \qrcode[height=1.2cm]{https://github.com/jrpompio}\\
+    \footnotesize \textbf{\href{https://github.com/jrpompio}{github.com/jrpompio}}
+\end{minipage}
+
+\vspace{0.5em}
+\hrule
+\vspace{0.8em}
+
+%-----------------------------------
+% PROFILE
+%-----------------------------------
+\section*{\textsc{Profile}}
+\small
+Electrical Engineering student (Networks and Computers Emphasis) with \textbf{8 courses remaining} to complete the degree. Experienced in various Linux environments (Ubuntu, Debian, Linux Mint, Arch, EndeavourOS) and programming languages such as Python (including MicroPython), C, C++, MIPS Assembly, and Verilog. Experienced in using Git for version control and LaTeX for producing written work, as well as working with microcontrollers like Raspberry Pi Pico and ESP32 through Arduino (IDE) and MicroPython. Passionate about salvaging components from nonfunctional devices for personal electronics projects, I am looking to apply these skills in a technology-focused environment.
+
+%-----------------------------------
+% EDUCATION
+%-----------------------------------
+\section*{\textsc{Education}}
+\small
+\textbf{Bachelor's Degree in Electrical Engineering (Networks and Computers Emphasis)} \\
+University of Costa Rica \textit{(In progress)}
+
+\textbf{Technical Degree in English for Customer Service} \\
+Universidad Técnica Nacional \textit{(2018)}
+
+%-----------------------------------
+% COMPLEMENTARY TRAINING
+%-----------------------------------
+\section*{\textsc{Complementary Training}}
+\small
+\textbf{Module I: Self-Leadership (20 hours)} \\
+University of Costa Rica, May 2019 \\
+Focused on teamwork, the importance of supporting and following the team leader to achieve shared goals, 
+and strategies for self-awareness and motivation.
+
+%-----------------------------------
+% EXPERIENCE
+%-----------------------------------
+\section*{\textsc{Experience}}
+\small
+\textbf{Community Service (TCU), University of Costa Rica} \hfill \textit{Ongoing} \\
+\textit{Control of a Small-Scale Vehicle with Raspberry Pi}  
+\begin{itemize}
+  \item Developed code for real-time control of motors and servos in a mini-car powered by a Raspberry Pi.
+  \item Performed tests and optimizations to enhance system performance.
+\end{itemize}
+
+\textbf{SuplyCell (Electronics Repair Shop)} \hfill \textit{2018} \\
+\textit{Technician and Customer Service}  
+\begin{itemize}
+  \item Installed software and replaced components in computing devices.
+  \item Provided repair guidance and customer support.
+\end{itemize}
+
+\textbf{Las Pumas Rescue Center} \hfill \textit{April - May 2018} \\
+\textit{Tour Guide}  
+\begin{itemize}
+  \item Guided English-speaking tourists, explaining local wildlife and the center’s mission.
+  \item Strengthened communication and customer service skills.
+\end{itemize}
+
+%-----------------------------------
+% LANGUAGES
+%-----------------------------------
+\section*{\textsc{Languages}}
+\small
+\begin{itemize}
+    \item \textbf{Spanish:} Native
+    \item \textbf{English:} Intermediate
+\end{itemize}
+
+%-----------------------------------
+% REFERENCES
+%-----------------------------------
+\section*{\textsc{References}}
+\small
+\begin{multicols}{2}
+\textbf{Helbert Meneses} \\
+TCU Professor in Charge, University of Costa Rica \\
+helbert.meneses@ucr.ac.cr
+
+\columnbreak
+
+\textbf{Alex Chaves} \\
+SuplyCell Supervisor \\
++506 6326 4970
+\end{multicols}
+
+\end{document}
+
