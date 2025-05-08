@@ -66,6 +66,7 @@ devices to understand and repurpose their functionalities.
 
   Contact information not available in the online version.
   Please request contact details directly from me.
+  (i don't want to leak this information)
 
 - **Helbert Meneses**
   TCU Professor in Charge, University of Costa Rica
@@ -73,7 +74,6 @@ devices to understand and repurpose their functionalities.
 - **Helen Mena**
   Mathematics Professor, University of Costa Rica
   
-
 - **Alex Chaves**
   SuplyCell Supervisor
 
