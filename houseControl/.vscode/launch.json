@@ -1,0 +1,14 @@
+{
+    "configurations": [
+    {
+        "name": "F5 Anything: Custom Command",
+        "type": "f5anything",
+        "request": "launch",
+        "command": "cd ${fileDirname} && make",
+        "terminalName": "F5 Anything",
+        "terminalIndex": -1,
+        "showTerminal": true,
+        "vscCommand": ""
+    }
+    ]
+}
