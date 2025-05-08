@@ -68,13 +68,13 @@ devices to understand and repurpose their functionalities.
   Please request contact details directly from me.
   (i don't want to leak this information)
 
-- **Helbert Meneses**
+- **Helbert Meneses** :
   TCU Professor in Charge, University of Costa Rica
 
-- **Helen Mena**
+- **Helen Mena** :
   Mathematics Professor, University of Costa Rica
   
-- **Alex Chaves**
+- **Alex Chaves** :
   SuplyCell Supervisor
 
 ## Contact
