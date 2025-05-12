@@ -41,7 +41,7 @@ devices to understand and repurpose their functionalities.
     keyboard.
   - Performed tests and optimizations to enhance system performance.
 
-- **Teacher Assistant, University of Costa Rica** *(Year)*
+- **Teacher Assistant, University of Costa Rica** *(2020 - 2022)*
   University Mathematics Courses
   - Assisted in teaching and tutoring university-level mathematics courses.
 
